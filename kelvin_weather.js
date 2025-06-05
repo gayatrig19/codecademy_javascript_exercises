@@ -1,3 +1,4 @@
+// Exercise 1 - Kelvin Weather
 // A constant variable declared to set forecast value in Kelvin.
 // This value will not change.
 const kelvin = 293;

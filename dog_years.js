@@ -1,3 +1,4 @@
+// Exercise 2 - Dog Years
 /* Objective - How old would you be if you were a dog? 
 Convert your age from “human years” to “dog years” */
 
