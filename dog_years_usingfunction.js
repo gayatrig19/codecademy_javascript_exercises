@@ -12,3 +12,9 @@ function calculateDogYears(humanAge) {
 }
 let myAgeInDogYears = calculateDogYears(25);
 console.log(myAgeInDogYears);
+
+
+// Input-Based Human to Dog Age Converter
+let userName = prompt("Enter your name:").toLowerCase();
+let userAge = prompt("Enter your age:");
+
